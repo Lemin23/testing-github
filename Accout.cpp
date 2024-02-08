@@ -12,6 +12,7 @@ double conti :: retur_balance (){
 
 void conti :: get_name (std::string n){
     name = n;
+    name = " lemin ";
 }
 
 std::string conti :: print_name(){
